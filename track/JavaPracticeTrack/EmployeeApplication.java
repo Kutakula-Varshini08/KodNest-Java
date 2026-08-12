@@ -17,7 +17,6 @@ class EmployeeApplication {
         System.out.println(e1.name);
         System.out.println(e2.id);
         System.out.println(e2.name);
-        e2.work();
 
     }
 }
