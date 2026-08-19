@@ -19,6 +19,7 @@ class Employee {
 
     String name;
     String role;
+    private final String name;
 
     Employee(String name) {
         this.name = name;
